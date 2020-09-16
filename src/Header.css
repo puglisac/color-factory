@@ -1,0 +1,9 @@
+.Header{
+    background-color: rgb(66, 65, 65);
+    color: white;
+}
+
+.Header a{
+    color: white;
+    text-decoration: none;
+}
